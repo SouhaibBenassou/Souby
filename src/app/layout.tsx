@@ -10,7 +10,6 @@ import {
   IconNewSection,
   IconTerminal2,
 } from "@tabler/icons-react";
-
 export default function RootLayout({
   children,
 }: Readonly<{
